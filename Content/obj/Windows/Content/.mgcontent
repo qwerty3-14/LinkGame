@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/noahg/source/repos/Connect/Connect/Content/Explosion1.wav</File>
+    <File>C:/Users/noahg/source/repos/Connect/Connect/Content/Laser-Ricochet2.wav</File>
+    <File>C:/Users/noahg/source/repos/Connect/Connect/Content/Retro-Frantic_V001_Looping.mp3</File>
+    <File>C:/Users/noahg/source/repos/Connect/Connect/Content/UI_Quirky26.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

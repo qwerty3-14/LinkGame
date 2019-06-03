@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/noahg/source/repos/Connect/Connect/Content/Explosion1.wav","C:/Users/noahg/source/repos/Connect/Connect/Content/bin/Windows/Content/Explosion1.xnb","SoundEffectProcessor","SoundEffectContent",493174,493161,0.317475
+"C:/Users/noahg/source/repos/Connect/Connect/Content/Laser-Ricochet2.wav","C:/Users/noahg/source/repos/Connect/Connect/Content/bin/Windows/Content/Laser-Ricochet2.xnb","SoundEffectProcessor","SoundEffectContent",216700,216681,0.2104004
+"C:/Users/noahg/source/repos/Connect/Connect/Content/Retro-Frantic_V001_Looping.mp3","C:/Users/noahg/source/repos/Connect/Connect/Content/bin/Windows/Content/Retro-Frantic_V001_Looping.xnb","SongProcessor","SongContent",3369825,144,1.444914
+"C:/Users/noahg/source/repos/Connect/Connect/Content/UI_Quirky26.wav","C:/Users/noahg/source/repos/Connect/Connect/Content/bin/Windows/Content/UI_Quirky26.xnb","SoundEffectProcessor","SoundEffectContent",175224,175209,0.1931816
